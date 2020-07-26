@@ -1,0 +1,202 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","introduccion"],
+    "path": "pages/intro.html"
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "legislacion",
+    "title": "1. Legislación turística",
+    "breadcrumb": ["Inicio","legislacion"],
+    "path": "pages/1-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "legislacion",
+        "title": "1.1 Legislación turística",
+        "anchor": "turistica"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "importancia",
+    "title": "2. Importancia de la industria turística",
+    "breadcrumb": ["Inicio","importancia"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "importancia",
+        "title": "2.1 Objetivo",
+        "anchor": "objetivo"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "importancia",
+        "title": "2.2 Entidades territoriales",
+        "anchor": "entidades"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "principios",
+    "title": "3. Principios de la industria turística",
+    "breadcrumb": ["Inicio","principios"],
+    "path": "pages/3-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "principios",
+        "title": "3.1 Generalidades",
+        "anchor": "generalidades"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "incentivos",
+    "title": "4. Incentivos tributarios",
+    "breadcrumb": ["Inicio","incentivos"],
+    "path": "pages/4-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "incentivos",
+        "title": "4.1 Registro Nacional de Turismo (RNT)",
+        "anchor": "registro"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "incentivos",
+        "title": "4.2 Fondos de promoción",
+        "anchor": "fondos"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "incentivos",
+        "title": "4.3 Entidades adscritas y vinculadas",
+        "anchor": "entidades"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "incentivos",
+        "title": "4.4 Funciones de carácter del Viceministerio de Turismo",
+        "anchor": "funciones"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "incentivos",
+        "title": "4.5 Objetivos y funciones de la estructura de los órganos de regulación en turismo",
+        "anchor": "objetivos"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "incentivos",
+        "title": "4.6 Prestadores de servicios turísticos que deben efectuar el Registro Nacional de Turismo",
+        "anchor": "prestadores"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "icon": "fa fa-file-text",
+    "slug": "derechos",
+    "title": "5. Derechos y deberes del turista",
+    "breadcrumb": ["Inicio","derechos"],
+    "path": "pages/5-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "derechos",
+        "title": "5.1 Marco Institucional",
+        "anchor": "marco"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "derechos",
+        "title": "5.2 Estructura del sector turismo",
+        "anchor": "estructura"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "derechos",
+        "title": "5.3 Normas relevantes sobre actividad turística",
+        "anchor": "normas1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "derechos",
+        "title": "5.4 Normas relevantes sobre actividad turística",
+        "anchor": "normas2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "derechos",
+        "title": "5.5 Ley del Medio Ambiente (Ley 99 de 1993)",
+        "anchor": "ley1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "derechos",
+        "title": "5.6 Normatividad",
+        "anchor": "normatividad"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "derechos",
+        "title": "5.7 Referentes normativos de la Ley General de Turismo para la gestión integral de los destinos turísticos",
+        "anchor": "referentes"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "icon": "fa fa-file-text",
+    "slug": "codigo",
+    "title": "6. Código de ética del turismo",
+    "breadcrumb": ["Inicio","codigo"],
+    "path": "pages/6-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "codigo",
+        "title": "6.1 Código Ético Mundial del Turismo",
+        "anchor": "codigo1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "codigo",
+        "title": "6.2 Código de Conducta: servicios turísticos",
+        "anchor": "codigo2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "codigo",
+        "title": "6.3 Código de ética agencias de viaje y turismo",
+        "anchor": "codigo3"
+      }
+    ]
+  },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  } 
+]
