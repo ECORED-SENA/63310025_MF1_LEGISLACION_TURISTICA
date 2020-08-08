@@ -253,36 +253,6 @@ ol.lista > li.mas:before {
     border-bottom: 5px solid $dark-orange;    
 }
 
-.recuadro1{
-    background-color: #FFFFFF;
-    padding: 20px;
-    border-bottom: #FA803F 4px solid;
-}
-
-.recuadro2{
-    background-color: #FFFFFF;
-    border-radius: 10px;
-    padding: 50px;
-}
-
-.recuadro3{
-    background-color: #F0E2BF;
-    padding-left: 80px;
-    padding-right: 80px;
-    padding-bottom: 40px;
-    padding-top: 40px;
-    border-radius: 10px;
-}
-
-.recuadro4{
-    background-color: #FFFFFF;
-    padding-left: 80px;
-    padding-right: 80px;
-    padding-bottom: 40px;
-    padding-top: 40px;
-    border-radius: 10px;
-}
-
 .carousel-control-prev-icon, .carousel-control-next-icon {
     height: 30px;
     width: 30px;
@@ -313,4 +283,60 @@ ol.lista > li.mas:before {
 
 .icon-text-title{
     color: #FA803F;
+}
+
+.recuadro1{
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-bottom: #FA803F 4px solid;
+}
+
+.recuadro2{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+.recuadro3{
+    background-color: #F0E2BF;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    border-radius: 10px;
+}
+
+.recuadro4{
+    background-color: #FFFFFF;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    border-radius: 10px;
+}
+
+.recuadro5{
+    background-color: #FFFFFF;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.indicador1{
+    bottom: -40px !important;
+}
+
+.fondo1{
+    background-size: contain;
+    background-color: #AFDDDB;
+    height: 600px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.fondo2{
+    background-size: contain;
+    background-color: #f4c13c;
+    height: 800px;
+    background-position: bottom;
+    background-repeat: no-repeat;
 }
